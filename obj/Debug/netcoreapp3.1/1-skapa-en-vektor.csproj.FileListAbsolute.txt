@@ -1,0 +1,13 @@
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.exe
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.deps.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.runtimeconfig.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.runtimeconfig.dev.json
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\bin\Debug\netcoreapp3.1\1-skapa-en-vektor.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.csprojAssemblyReference.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.AssemblyInfoInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.AssemblyInfo.cs
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.csproj.CoreCompileInputs.cache
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.dll
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.pdb
+C:\Users\awikl\source\repos\Hermods-Uppgifter\Uppdrag 3\1-skapa-en-vektor\obj\Debug\netcoreapp3.1\1-skapa-en-vektor.genruntimeconfig.cache
